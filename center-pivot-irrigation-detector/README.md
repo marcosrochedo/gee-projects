@@ -1,17 +1,17 @@
-#  Quantificação de pivôs centrais na região de Luís Eduardo Magalhães utilizando os algoritmos Canny Edge Detection e Hough Transform
+#  Quantification of central pivots in the Luís Eduardo Magalhães region using the Canny Edge Detection and Hough Transform algorithms
 
 ## Intro
 
-A transformada de Hough e Canny Edge Detector são técnicas de processamento digital que possibilitam a detecção de contornos nas imagens. Ambos algoritmos tem o mesmo objetivo, porém diferenciam-se na forma de fazê-lo. A forma geométrica dos pivôs centrais na imagem permite que eles consigam os encontrar e através de visão computacional ser feita a contagem desses alvos. 
+A transformation of Hough and Canny Edge Detector are digital processing techniques that allow the detection of contours in images. Both algorithms have the same objective, however they differ in the way of displaying it. A geometric shape of the main centers in the image allows them to find and through computer vision a count of these targets is made.
 
 ## Objective
 
-- Entender o funcionamento dos algoritmos de visão computacional na detecção de geometrias de pivôs centrais;
-- Analisar e levantar a distribuição da irrigação por pivô central na mesorregião de Luís Eduardo Magalhães através de sensoriamento remoto; 
+- Understand the operation of computer vision algorithms in the detection of central pivot geometries;
+- Analyze and survey the distribution of irrigation by central pivot in the Luís Eduardo Magalhães mesoregion through remote sensing;
 
 ## About the Dataset
 
-Os dados após coletados foram analisados por meio de uma interface de programação de aplicativos (API) acessível pela Internet em ambiente de desenvolvimento interativo (IDE) associado à Web disponível na linguagem JavaScript, que permite a criação de protótipos e a visualização rápida de resultados, tal plataforma chamada Google Earth Engine Code.
+The data collected was analyzed using an application programming interface (API) accessible over the Internet in an interactive development environment (IDE) associated with the Web, available in JavaScript, which allows the creation of prototypes and the quick visualization of results, such a platform called Google Earth Engine Code.
 
 ## References:
 
