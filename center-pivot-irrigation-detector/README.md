@@ -1,4 +1,4 @@
-#  Quantification of central pivots in the Luís Eduardo Magalhães region using the Canny Edge Detection and Hough Transform algorithms
+#  Quantification of central pivots in Brazil using Computer Vision
 
 ## Intro
 
@@ -11,7 +11,20 @@ A transformation of Hough and Canny Edge Detector are digital processing techniq
 
 ## About the Dataset
 
-The data collected was analyzed using an application programming interface (API) accessible over the Internet in an interactive development environment (IDE) associated with the Web, available in JavaScript, which allows the creation of prototypes and the quick visualization of results, such a platform called Google Earth Engine Code.
+The data collected from catalog of satellite images that are available on the Earth Explorer website belonging to the United States Geological Survey (USGS) available at (http://earthexplorer.usgs.gov/) was analyzed using an application programming interface (API) accessible over the Internet in an interactive development environment (IDE) associated with the Web, available in JavaScript, which allows the creation of prototypes and the quick visualization of results, such a platform called Google Earth Engine Code.
+
+<img/data>
+
+## Study area
+
+The study was carried out within the limits of the Luís Eduardo Magalhães region in the State
+from Bahia, Brazil
+
+<img/study>
+
+## A little bit about results...
+
+
 
 ## References:
 
