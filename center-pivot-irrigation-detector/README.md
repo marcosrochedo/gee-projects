@@ -12,11 +12,9 @@ A transformation of Hough and Canny Edge Detector are digital processing techniq
 ## About the Dataset
 
 The data collected from catalog of satellite images that are available on the Earth Explorer website belonging to the United States Geological Survey (USGS) available at (http://earthexplorer.usgs.gov/) was analyzed using an application programming interface (API) accessible over the Internet in an interactive development environment (IDE) associated with the Web, available in JavaScript, which allows the creation of prototypes and the quick visualization of results, such a platform called Google Earth Engine Code.
-<div id="container">
-    <img />
-    ![Alt Text](https://raw.githubusercontent.com/mp-rocha/gee-projects/master/center-pivot-irrigation-detector/images/data.PNG)
-</div>
+
 ![Alt Text](https://raw.githubusercontent.com/mp-rocha/gee-projects/master/center-pivot-irrigation-detector/images/data.PNG)
+
 ## Study area
 
 The study was carried out within the limits of the Luís Eduardo Magalhães region in the State
