@@ -24,6 +24,8 @@ from Bahia, Brazil
 
 ## A little bit about results...
 
+Classification:
+
 ![Alt Text](https://raw.githubusercontent.com/mp-rocha/gee-projects/master/center-pivot-irrigation-detector/images/2013.PNG)
 ![Alt Text](https://raw.githubusercontent.com/mp-rocha/gee-projects/master/center-pivot-irrigation-detector/images/2014.PNG)
 ![Alt Text](https://raw.githubusercontent.com/mp-rocha/gee-projects/master/center-pivot-irrigation-detector/images/detect.PNG)
