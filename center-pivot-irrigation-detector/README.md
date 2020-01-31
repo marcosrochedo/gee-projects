@@ -30,5 +30,5 @@ from Bahia, Brazil
 
 ## References:
 
-P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. /n 
-Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+Rocha, M. P. A.
+Algoritmos para identificação de pivôs centrais e análise tempoespacial em imagens de sensoriamento remoto. Monografia, Universidade de São Paulo, Piracicaba-SP, Brasil, 2019.
